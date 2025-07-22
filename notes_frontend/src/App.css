@@ -1,4 +1,5 @@
 /* CSS Variables for Theme Management */
+/* Note: Custom accent/primary/secondary colors used in src/App.js for modern notes app */
 :root {
   /* Light theme colors */
   --bg-primary: #ffffff;
